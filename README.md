@@ -11,3 +11,5 @@ for xm in range(table[0],len(table),2):
 #third
 bb = table[0:len(table):2]
 print(bb)
+
+#可以看出，第三种方式更加简洁
